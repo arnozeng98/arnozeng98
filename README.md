@@ -4,6 +4,9 @@
 - 🐍 Proficient in Python, R, C++, and familiar with Linux system operations
 - 🌱 Currently exploring data science and machine learning techniques
 
+## Featured Projects
+- **[Machine Learning Model for Predicting X](https://github.com/arnozeng98/house-price)**: Developed and fine-tuned a prediction model
+
 ## Learning
 - 📚 Exploring advanced Natural Language Processing (NLP) techniques
 - 🤖 Experimenting with machine learning models for text classification and sentiment analysis
