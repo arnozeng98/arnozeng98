@@ -1,4 +1,4 @@
-## Hi there! I'm Lingsong 👋
+## Hi there! I'm Arno 👋
 - 🎓 Master’s student in Computational Linguistics at UBC
 - 🔧 Former Solutions Engineer with experience in virtualization, containerization, and disaster recovery
 - 🐍 Proficient in Python, R, C++, and familiar with Linux system operations
