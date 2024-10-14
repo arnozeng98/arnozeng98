@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! I'm Lingsong 👋
+- 🎓 Master’s student in Computational Linguistics at UBC
+- 🔧 Former Solutions Engineer with experience in virtualization, containerization, and disaster recovery
+- 🐍 Proficient in Python, R, C++, and familiar with Linux system operations
+- 🌱 Currently exploring data science and machine learning techniques
 
-<!--
-**arnozeng98/arnozeng98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Learning
+- 📚 Exploring advanced Natural Language Processing (NLP) techniques
+- 🤖 Experimenting with machine learning models for text classification and sentiment analysis
 
-Here are some ideas to get you started:
+## Get in touch
+- 📧 Email: arnozeng@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/arnozeng/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
