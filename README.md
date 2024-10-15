@@ -5,7 +5,7 @@
 - 🌱 Currently exploring data science and machine learning techniques
 
 ## Featured Projects
-- **[Machine Learning Model for Predicting X](https://github.com/arnozeng98/house-price)**: Developed and fine-tuned a prediction model
+- **[House Prices - Advanced Regression Techniques](https://github.com/arnozeng98/House-Prices)**: Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
 ## Learning
 - 📚 Exploring advanced Natural Language Processing (NLP) techniques
