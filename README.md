@@ -1,17 +1,11 @@
-## Hi there! I'm Arno 👋
-- 🎓 Master’s student in Computational Linguistics at UBC
-- 🔧 Former Solutions Engineer with experience in virtualization, containerization, and disaster recovery
-- 🐍 Proficient in Python, R, C++, and familiar with Linux system operations
-- 🌱 Currently exploring data science and machine learning techniques
-
-## Featured Projects
-- **[House Prices - Advanced Regression Techniques](https://github.com/arnozeng98/House-Prices)**: Predict sales prices and practice feature engineering, RFs, and gradient boosting
-
-## Learning
-- 📚 Exploring advanced Natural Language Processing (NLP) techniques
-- 🤖 Experimenting with machine learning models for text classification and sentiment analysis
-
-## Get in touch
-- 📧 Email: arnozeng@outlook.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/arnozeng/)
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/arnozeng98/arnozeng98/refs/heads/main/assets/gojou.jpeg" alt="gojou" width="20%" align="right"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Arno%2C+a+tech+goblin+and+brave+man+wannabe+%E2%9C%A9" alt="Hello, this is Arno" width="70%" />
+<br><br>
+<pre>
+    👨‍🎓 Master @ UBC • Data Science • Computational Linguistics
+    💻 Machine Learning • Deep Learning • NLP
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+</pre>
+</div>
