@@ -2,12 +2,10 @@
 
 ## 🚀 About Me
 
-```bash
-👨‍🎓 MSU➡️UBC • Statistics • Data Science • Computational Linguistics
-💻 Machine Learning • Deep Learning • NLP
-📖 Software architecture • Distributed systems
-🎮 Music • Games • Anime • Code • Art
-```
+- 👨‍🎓 MSU➡️UBC • Statistics • Data Science • Computational Linguistics
+- 💻 Machine Learning • Deep Learning • NLP
+- 📖 Software architecture • Distributed systems
+- 🎮 Music • Games • Anime • Code • Art
 
 ## 🛠️ Tech Stack
 
