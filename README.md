@@ -1,5 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2000&pause=5000&color=7AA2F7&center=true&vCenter=true&width=435&height=35&lines=Hey+there%2C+this+is+Arno!)](https://git.io/typing-svg)
 
+>「記憶というのは不思議なものだ。あの時の僕は、目の前にある光景にたいして、ほとんど注意を払っていなかった。 それが十八年後の僕に、これほどまでに鮮明なイメージを持って蘇るなんて、まったく考えてもみなかった。 あの時の僕にとって風景はどうでもよかったのだ。僕が考えていたのは自分自身のことだった。 自分がものごとの意味を考える能力を失ってしまったことについてだった。」—— 村上春樹『ノルウェイの森』
+
 ## 🚀 About Me
 
 - 👨‍🎓 MSU➡️UBC • Statistics • Data Science • Computational Linguistics
