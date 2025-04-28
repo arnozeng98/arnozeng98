@@ -1,16 +1,16 @@
 # Hi, I'm Arno! <img src="https://img.arnozeng.com/2025/04/28/680f5535b2e90.gif" alt="Hello~" width="100">
 
-<table>
+<table border="0">
     <tr>
-        <td width="50%">
+        <td>
             <pre>
-            👨‍🎓 MSU -> UBC • Statistics • Data Science • Computational Linguistics
-            💻 Machine Learning • Deep Learning • NLP
-            📖 Software architecture • Distributed systems
-            🎮 Music • Games • Anime • Code • Art
+                👨‍🎓 MSU -> UBC • Statistics • Data Science • Computational Linguistics
+                💻 Machine Learning • Deep Learning • NLP
+                📖 Software architecture • Distributed systems
+                🎮 Music • Games • Anime • Code • Art
             </pre>
         </td>
-        <td width="50%">
+        <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnozeng98&layout=compact&theme=tokyonight" alt="Top Langs">
         </td>
     </tr>
