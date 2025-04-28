@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=7AA2F7&width=435&lines=Hi%2C+I'm+Arno!" alt="Typing SVG" />
   </a>
   <ul align="left">
-    <li>👨‍🎓 Master @ UBC • Data Science • Computational Linguistics</li>
+    <li>👨‍🎓 @ UBC • Data Science • Computational Linguistics</li>
     <li>💻 Machine Learning • Deep Learning • NLP</li>
     <li>📖 Software architecture • Distributed systems</li>
     <li>🎮 Music • Games • Anime • Code • Art</li>
