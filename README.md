@@ -13,9 +13,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnozeng98&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arnozeng98&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnozeng98&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,html) ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arnozeng98&layout=compact&theme=tokyonight)
 
 ![Arno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arnozeng98&theme=tokyo-night)
 
