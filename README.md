@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 
+- 💻 Data Scientist @ AIA | Machine Learning • Deep Learning • NLP
 - 👨‍🎓 MSU➡️UBC • Statistics • Data Science • Computational Linguistics
-- 💻 Machine Learning • Deep Learning • NLP
 - 📖 Software architecture • Distributed systems
 - 🎮 Music • Games • Anime • Code • Art
 
